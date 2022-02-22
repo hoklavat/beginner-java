@@ -1,6 +1,6 @@
 public class Person {
     //field
-    private String name;
+    private String name; //encapsulation. block, restrict or free access to class fields with private, proteced, public.
     private int age;
     private double height;
 
